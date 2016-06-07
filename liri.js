@@ -27,10 +27,11 @@ switch(action){
         searchMovie();
         break;
     case 'do-what-it-says':
-        cmdFromTxt();
+        readFileExecute();
         break;
 }
- 
+
+//function to get last 20 tweets from twitter module 
 function getTweets() { 
 //Create a new Twitter instance
 var twitter = new Twitter(keys.twitterKeys);
@@ -46,8 +47,10 @@ twitter.get('statuses/user_timeline', {screen_name: 'jccruey', count: 20}, funct
 });
 }
 
+//function to search Spotify for info on song name passed as argument
 function searchSpotify() {
-spotify.search({ type: 'track', query: value || "what's my age again" }, function(err, data) {
+var value = process.argv[3] || "what's my age again";
+spotify.search({ type: 'track', query: value }, function(err, data) {
     if ( err ) {
         console.log('Error occurred: ' + err);
         return;
@@ -60,15 +63,16 @@ spotify.search({ type: 'track', query: value || "what's my age again" }, functio
  });
 }
 
+//funtion to search OMBD data for data on movie name passed as argument
 function searchMovie() {
-	var queryUrl = 'http://www.omdbapi.com/?t=' + value || "Mr. Nobody" +'&y=&plot=short&r=json&tomatoes=true';
+	var value = process.argv[3] || "Mr. Nobody";
+	var queryUrl = 'http://www.omdbapi.com/?&y=&plot=short&r=json&tomatoes=true&t=' + value;
 	request(queryUrl, function(err, response, body) {
 	if ( err ) {
         console.log('Error occurred: ' + err);
         return;
     } else {
 		body = JSON.parse(body);
-		console.log(body);
 		console.log("Title: " + body.Title);
 		console.log("Year: " + body.Year);
 		console.log("IMDB Rating: " + body.imdbRating);
@@ -82,5 +86,19 @@ function searchMovie() {
 	}
 })
 }
+
+//function to read text file and execute arguments
+function readFileExecute() {
+	//reads text files and returns contents to data
+	fs.readFile("random.txt", "utf8", function(error, data) {
+    // Then split it by commas to make arguments accessible
+    var textArgs = data.split(',');
+    
+    // store arguments as var defined in switch function
+ 	action = textArgs[0];
+ 	value = textArgs[1];
+
+})
+};
 
 
