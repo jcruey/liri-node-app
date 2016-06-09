@@ -1,0 +1,101 @@
+{
+	"Title": "American Pie",
+	"Year": "1999",
+	"ImdbRating": "7.0",
+	"Country": "USA",
+	"Language": "English",
+	"Plot": "Four teenage boys enter a pact to lose their virginity by prom night.",
+	"Actors": "Jason Biggs, Chris Klein, Thomas Ian Nicholas, Alyson Hannigan",
+	"rottenTomatoesRating": "5.8",
+	"rottenTomatoesUrl": "http://www.rottentomatoes.com/m/american_pie/"
+}{
+	"Artists": "Adele",
+	"songName": "Hello",
+	"previewLink": "https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4",
+	"Album": "Hello"
+}{
+	"Title": "Star Trek",
+	"Year": "2009",
+	"ImdbRating": "8.0",
+	"Country": "USA, Germany",
+	"Language": "English",
+	"Plot": "The brash James T. Kirk tries to live up to his father's legacy with Commander Spock keeping him in check as a vengeful, time-traveling Romulan creates black holes to destroy the Federation one planet at a time.",
+	"Actors": "Chris Pine, Zachary Quinto, Leonard Nimoy, Eric Bana",
+	"rottenTomatoesRating": "8.2",
+	"rottenTomatoesUrl": "http://www.rottentomatoes.com/m/star_trek_11/"
+}{
+	"Artists": "blink-182",
+	"songName": "What's My Age Again?",
+	"previewLink": "https://p.scdn.co/mp3-preview/51b3254f8c1f6d0d8839227f37e82a1a62a27260",
+	"Album": "Enema Of The State (Explicit Version)"
+}{
+	"Title": "Mr. Nobody",
+	"Year": "2009",
+	"ImdbRating": "7.9",
+	"Country": "Belgium, Germany, Canada, France",
+	"Language": "English, Mohawk",
+	"Plot": "A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.",
+	"Actors": "Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham",
+	"rottenTomatoesRating": "6.6",
+	"rottenTomatoesUrl": "http://www.rottentomatoes.com/m/mr-nobody/"
+}[
+	"Tue Apr 26 13:33:55 +0000 2016 RT @RedHuber: Video: https://t.co/Hg4nClu4XJ  Some stories have a an unexpected twist at the end. Great edit by @JCCruey  #gopro https://t.…, "
+][
+	"Sat Mar 12 15:30:39 +0000 2016 RT @CaitlinDineen: The heights Josh Cruey will go to for a good photo. #seewhatIdidthere @orlandosentinel https://t.co/FIimIjEu66, "
+][
+	"Thu Oct 23 23:01:22 +0000 2014 Partial solar eclipse as seen from Sanford. http://t.co/GwqvWKUzZN, "
+][
+	"Wed Oct 15 14:50:43 +0000 2014 Check out the hilarious scare reactions @A_Petrified http://t.co/JUYMBZY3ma http://t.co/wtLBWCjTWk, "
+][
+	"Sun Oct 05 03:45:13 +0000 2014 Come along for my ride with the @AFThunderbirds at the Melbourne Air &amp; Space show http://t.co/aoTfpQw6P1, "
+][
+	"Sun Oct 05 02:47:51 +0000 2014 Another big thank you to @OSPhoto @cassiearmstrong @Suppy7 @toddstewart for making today's flight with the @AFThunderbirds possible!, "
+][
+	"Sun Oct 05 02:46:31 +0000 2014 A special thank you to @AFThunderbirds for today's amazing flight. Can't say enough good things about them they are fantastic!!!, "
+][
+	"Sun Oct 05 01:11:36 +0000 2014 Be sure to check out the video of my ride with the @AFThunderbirds pilot 7 Tyler Ellison http://t.co/aoTfpQw6P1, "
+][
+	"Sat Oct 04 18:29:29 +0000 2014 RT @AFThunderbirds: SSgt. Madeline Conley fits Joshua Cruey, Orlando Sentinel Staff Photographer, for the g-suit prior to… http://t.co/pWen…, "
+][
+	"Sat Oct 04 18:29:24 +0000 2014 RT @AFThunderbirds: Joshua Cruey, Orlando Sentinel Staff Photographer, poses for a photo before his media flight at… http://t.co/HdaaQIOqAA, "
+][
+	"Thu Oct 02 19:31:56 +0000 2014 @Suppy7 unfortunately not!, "
+][
+	"Thu Oct 02 19:14:23 +0000 2014 Just got a look at my ride on Saturday with the USAF Thunderbirds http://t.co/iVNkfGPYD4, "
+][
+	"Mon Sep 29 18:40:57 +0000 2014 RT @cassiearmstrong: Orlando Magic player Aaron Gordon poses for his portrait at #MagicMediaDay. #orlandomagic http://t.co/19Sh9Mwost, "
+][
+	"Mon Sep 29 18:13:28 +0000 2014 RT @cassiearmstrong: Orlando Magic player @lukeridnour poses for his portrait at #MagicMediaDay. #orlandomagic http://t.co/x3QdIo8Ovt, "
+][
+	"Mon Sep 29 18:13:15 +0000 2014 RT @cassiearmstrong: Orlando Magic player @BenGordon8 poses for his portrait at #MagicMediaDay. #orlandomagic http://t.co/RGRYgBcBAB, "
+][
+	"Mon Sep 29 18:13:08 +0000 2014 RT @cassiearmstrong: Orlando Magic player @NikolaVucevic poses for his portrait at #MagicMediaDay. #orlandomagic http://t.co/G793qXuLFB, "
+][
+	"Mon Sep 29 17:31:29 +0000 2014 RT @cassiearmstrong: A sneak peek at Coach Vaughn's portrait. #MagicMediaDay http://t.co/3y2MMA8qPT, "
+][
+	"Mon Sep 29 17:31:26 +0000 2014 RT @cassiearmstrong: Orlando Magic player Devyn Marble gets ready for his portrait. #MagicMediaDay http://t.co/VAjjoGTmFG, "
+][
+	"Mon Sep 29 17:31:22 +0000 2014 RT @cassiearmstrong: Orlando Magic player @VicOladipo poses for his portrait at #MagicMediaDay http://t.co/wywijy4UZS, "
+][
+	"Mon Sep 29 17:31:19 +0000 2014 RT @cassiearmstrong: .@OrlandoMagic player Dewayne Dedmon poses for his portrait at #MagicMediaDay. http://t.co/RycHNwK8tt, "
+]{
+	"Artists": "RÜFÜS DU SOL",
+	"songName": "You Were Right",
+	"previewLink": "https://p.scdn.co/mp3-preview/d7f46b160678799dd8f5ce1edd1462b5aa82bd22",
+	"Album": "Bloom"
+}{
+	"Title": "Kill Bill: Vol. 1",
+	"Year": "2003",
+	"ImdbRating": "8.1",
+	"Country": "USA",
+	"Language": "English, French, Japanese",
+	"Plot": "The Bride wakens from a four-year coma. The child she carried in her womb is gone. Now she must wreak vengeance on the team of assassins who betrayed her - a team she was once part of.",
+	"Actors": "Uma Thurman, Lucy Liu, Vivica A. Fox, Daryl Hannah",
+	"rottenTomatoesRating": "7.7",
+	"rottenTomatoesUrl": "http://www.rottentomatoes.com/m/kill_bill_vol_1/"
+}{
+	"Artists": "blink-182",
+	"songName": "What's My Age Again?",
+	"previewLink": "https://p.scdn.co/mp3-preview/51b3254f8c1f6d0d8839227f37e82a1a62a27260",
+	"Album": "Enema Of The State (Explicit Version)"
+}
