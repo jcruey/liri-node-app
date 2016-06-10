@@ -4,7 +4,7 @@
 
 * LIRI is a command line node app that takes in parameters and gives you back data from Twitter, Spotify and OMDB.
 
-# Arguments 
+#### Arguments 
 
 liri.js can take in one of the following arguments:
 
